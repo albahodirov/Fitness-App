@@ -1,7 +1,5 @@
 <h1 align="center">Fitness App <img src="https://i.pinimg.com/originals/91/9a/0e/919a0e1777fcd6423dad3ca12774f718.gif" width="30px"> </h1>
 
-build\app\outputs\flutter-apk\app-armeabi-v7a-release.apk
-
 - Working on the program
 
 - The program also works in Dark mode
