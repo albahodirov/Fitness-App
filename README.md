@@ -1,10 +1,16 @@
 # Fitness App
 
--Dastur tugallanmagan
+<h1 align="center">Fitness App <img src="https://i.pinimg.com/originals/91/9a/0e/919a0e1777fcd6423dad3ca12774f718.gif" width="30px"> </h1>
 
--Dastur Dark mode'da ham ishlaydi
+- Dastur tugallanmagan
 
--Firebase orqali ro'yhatdan o'tish qulayligi mavjud
+- Dastur Dark mode'da ham ishlaydi
 
-![a](https://user-images.githubusercontent.com/78100971/129019383-37cbc6bf-54f6-4675-8b31-81ba4b39b038.jpg)
+- Firebase orqali ro'yhatdan o'tish qulayligi mavjud
+
+<h3 align="center">Firebase orqali ro'yhatdan o'tish:</h3>
+
+![LogFirebase](https://user-images.githubusercontent.com/78100971/129022188-1e7842e1-c42e-4c85-a761-89acdce6c9fc.gif)
+
+<h3 align="center">Screenshot'lar:</h3>
 
