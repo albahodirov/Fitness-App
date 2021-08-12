@@ -1,8 +1,8 @@
 <h1 align="center">Fitness App <img src="https://i.pinimg.com/originals/91/9a/0e/919a0e1777fcd6423dad3ca12774f718.gif" width="30px"> </h1>
 
-- Working on the program
+- Working on the App
 
-- The program also works in Dark mode
+- The App also works in Dark mode
 
 - There is an easy way to register through Firebase
 
