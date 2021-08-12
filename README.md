@@ -8,7 +8,7 @@
 
 - You can upload a picture from the gallery
 
-- https://github.com/albahodirov/Fitness-App/blob/master/app-armeabi-v7a-release.apk
+- To download the App: https://github.com/albahodirov/Fitness-App/blob/master/app-armeabi-v7a-release.apk
 
 <h3 align="center">Registration through Firebase</h3>
 
